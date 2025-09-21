@@ -1,4 +1,4 @@
-public class Main {
+public class RollLoadDie {
     public static void main(String[] args) {
         double n = Math.random();
 

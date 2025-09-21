@@ -1,4 +1,4 @@
-public class Main {
+public class Introduction {
     public static void main(String[] args) {
         System.out.print("Phạm Gia Hiển\t24021466\tK69I-CS5");
         System.out.print("\tPhamGiaHien\tphamgiahien1205@gmail.com\n");

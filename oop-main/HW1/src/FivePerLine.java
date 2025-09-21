@@ -1,4 +1,4 @@
-public class Main {
+public class FivePerLine {
     public static void main(String[] args) {
         int start = 1000;
         int end = 2000;
